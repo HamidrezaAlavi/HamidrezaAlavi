@@ -10,7 +10,7 @@
     <h2>👨‍💻 About Me</h2>
     <ul>
       <li>🔭 Currently building enterprise-grade network monitoring labs using <b>Zabbix</b>.</li>
-      <li>🌱 Deepening my expertise in <b>Cybersecurity</b>, threat intelligence, and preparing for <b>LPIC-2</b> & <b>CISSP</b> concepts.</li>
+      <li>🌱 Deepening my expertise in <b>Cybersecurity</b>, threat intelligence.</li>
       <li>⚙️ Automating daily sysadmin tasks with <b>Python</b> and Bash.</li>
       <li>🔍 Passionate about packet analysis and network troubleshooting.</li>
     </ul>
@@ -32,25 +32,13 @@
   </div>
 
   <br />
-
-  <div align="left">
-    <h2>📊 GitHub Stats</h2>
-    <a href="https://github.com/HamidrezaAlavi">
-      <img src="https://github-readme-stats.vercel.app/api?username=HamidrezaAlavi&show_icons=true&theme=transparent&hide_border=true&title_color=1BA0D7&icon_color=1BA0D7" height="150" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/HamidrezaAlavi">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidrezaAlavi&layout=compact&theme=transparent&hide_border=true&title_color=1BA0D7" height="150" alt="Top Languages" />
-    </a>
-  </div>
-
-  <br />
-
+  
   <div align="left">
     <h2>📫 Let's Connect</h2>
     <a href="mailto:sh.alavimoghaddam@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL](https://www.linkedin.com/in/seyyed-hamidreza-alavi-moghaddam-054789336/)" target="_blank">
+    <a href="https://www.linkedin.com/in/seyyed-hamidreza-alavi-moghaddam-054789336/)" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </div>
