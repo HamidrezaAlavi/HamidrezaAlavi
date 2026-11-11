@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://tabeshdigital.ir/">Tabesh Digital</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/hamidrezaalavi">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://t.me/hamidreza_alavimoghaddam">Telegram</a> &nbsp;·&nbsp;
-  <a href="mailto:sh.alavimoghaddam@gmail.com">Email</a>
+  <a href="mailto:sh.alavimoghaddam@gmail.com"><img src="assets/buttons/email.png" height="44" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/hamidrezaalavi"><img src="assets/buttons/linkedin.png" height="44" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://t.me/hamidreza_alavimoghaddam"><img src="assets/buttons/telegram.png" height="44" alt="Telegram"></a>&nbsp;&nbsp;
+  <a href="https://tabeshdigital.ir/"><img src="assets/buttons/website.png" height="44" alt="Website — tabeshdigital.ir"></a>
 </p>
 
 ## About
@@ -31,20 +31,28 @@ Full-stack developer who starts at the interface and builds down: **Next.js, Rea
     <td width="50%" align="center">
       <a href="https://anaram-style.vercel.app/"><img src="assets/shots/anaram.jpg" alt="Anaram — fashion e-commerce storefront"></a><br>
       <b>Anaram</b> — fashion e-commerce storefront
+      <br><br>
+      <a href="https://anaram-style.vercel.app/"><img src="assets/buttons/visit.png" height="30" alt="Visit site"></a>
     </td>
     <td width="50%" align="center">
       <a href="https://tokino.vercel.app/"><img src="assets/shots/tokino.jpg" alt="Tokino Card — subscription services platform"></a><br>
       <b>Tokino Card</b> — subscription services platform
+      <br><br>
+      <a href="https://tokino.vercel.app/"><img src="assets/buttons/visit.png" height="30" alt="Visit site"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://tashrifatbartar.ir/"><img src="assets/shots/tashrifat.jpg" alt="Tashrifat Bartar — event services site with technical SEO"></a><br>
       <b>Tashrifat Bartar</b> — event services site + SEO
+      <br><br>
+      <a href="https://tashrifatbartar.ir/"><img src="assets/buttons/visit.png" height="30" alt="Visit site"></a>
     </td>
     <td width="50%" align="center">
       <a href="https://pass1st.com/"><img src="assets/shots/pass1st.jpg" alt="Pass1st — trading-challenge platform"></a><br>
       <b>Pass1st</b> — trading-challenge platform
+      <br><br>
+      <a href="https://pass1st.com/"><img src="assets/buttons/visit.png" height="30" alt="Visit site"></a>
     </td>
   </tr>
 </table>
@@ -79,4 +87,9 @@ Full-stack developer who starts at the interface and builds down: **Next.js, Rea
 
 ## Get in touch
 
-[Email](mailto:sh.alavimoghaddam@gmail.com) · [LinkedIn](https://linkedin.com/in/hamidrezaalavi) · [Telegram](https://t.me/hamidreza_alavimoghaddam) · [tabeshdigital.ir](https://tabeshdigital.ir/)
+<p>
+  <a href="mailto:sh.alavimoghaddam@gmail.com"><img src="assets/buttons/email.png" height="44" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/hamidrezaalavi"><img src="assets/buttons/linkedin.png" height="44" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://t.me/hamidreza_alavimoghaddam"><img src="assets/buttons/telegram.png" height="44" alt="Telegram"></a>&nbsp;&nbsp;
+  <a href="https://tabeshdigital.ir/"><img src="assets/buttons/website.png" height="44" alt="Website — tabeshdigital.ir"></a>
+</p>

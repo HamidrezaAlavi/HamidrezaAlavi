@@ -20,10 +20,10 @@ Bio limit is 160 characters; the suggestion above is about 90.
 Your profile README lives in the repo **HamidrezaAlavi/HamidrezaAlavi** (it already exists). In that repo:
 
 1. Replace `README.md` with the `README.md` in this folder.
-2. Upload the `assets` folder (it holds `banner.png` and four screenshots) to the repo root, so the paths `assets/banner.png` and `assets/shots/…` work.
+2. Upload the `assets` folder (it holds `banner.png`, the four screenshots in `shots/` and the icon buttons in `buttons/`) to the repo root, so the paths `assets/banner.png`, `assets/shots/…` and `assets/buttons/…` work.
 3. Commit to `main`. The new profile appears on github.com/HamidrezaAlavi within a minute.
 
-Edit the page later by changing text in `README.md`. If you do not want your employers shown publicly, delete the first two lines under **Experience**.
+Edit the page later by changing text in `README.md`. The Email / LinkedIn / Telegram / Website / Visit-site buttons are images in `assets/buttons/` (the links themselves are in `README.md`); to change a button's label or icon the image has to be regenerated — ask and I will re-make it. If you do not want your employers shown publicly, delete the first two lines under **Experience**.
 
 ## 3. Pinned repositories (Profile → Customize your pins)
 
